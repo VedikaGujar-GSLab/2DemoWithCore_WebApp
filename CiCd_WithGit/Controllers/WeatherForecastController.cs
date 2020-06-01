@@ -13,7 +13,7 @@ namespace CiCd_WithGit.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "1Freezing", "1Bracing", "1Chilly"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
